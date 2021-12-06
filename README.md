@@ -7,7 +7,7 @@
 
 A passionate AI/ML developer from :india: whose most of the work and research is focused on leveraging Neural Networks to solve daily problems
 
-- 🏢 I'm currently working at [![Tata Consultancy Serviceas](https://github.com/simple-icons/simple-icons/blob/master/icons/tata.svg)](https://www.tcs.com/) as a Data Analyst & Engineer for [![Johnson & Johnson Pharmaceuticals](https://github.com/detain/svg-logos/blob/master/svg/johnson-johnson-2.svg)](https://www.jnj.com/)
+- 🏢 I'm currently working at [Tata Consultancy Services](https://www.tcs.com/) as a Data Analyst & Engineer for [Johnson & Johnson Pharmaceuticals](https://www.jnj.com/)
 - 🎨 Checkout my [portfolio](https://frizzid07.github.io/)
 
 
