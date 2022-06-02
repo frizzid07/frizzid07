@@ -1,4 +1,4 @@
-### Hello world, I am Tanmay <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Hello world, I am Tanmay <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="3%">
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/frizzid07)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tanmay-bhagwat/)
 [![Medium](https://img.shields.io/badge/-Medium-black?style=flat&logo=Medium&logoColor=white)](https://medium.com/@tanmaybhagwat)
