@@ -5,7 +5,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:tanmaybhagwat07@gmail.com)
 ![](https://komarev.com/ghpvc/?username=frizzid07&color=blue&style=flat-square&label=Profile+visitors)
 
-A Computer Science Graduate Student at [University of California - Irvine](https://www.cs.uci.edu/) and an AI/ML Enthusiast whose work and research is focused on leveraging Neural Networks to solve daily problems
+A Computer Science Graduate Student at the [University of California - Irvine](https://www.cs.uci.edu/) and an AI/ML Enthusiast whose work and research is focused on leveraging Neural Networks to solve daily problems
 
 - 🏢 I previously worked at [Tata Consultancy Services](https://www.tcs.com/) as a Data Analyst & Engineer for [Johnson & Johnson Pharmaceuticals](https://www.jnj.com/)
 - 🎨 Checkout my [portfolio](https://frizzid07.github.io/)
